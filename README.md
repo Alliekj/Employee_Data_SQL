@@ -1,7 +1,7 @@
 # sql-challenge
 
 Overview:
-This project involves the design, creation, and manipulation of a relational database for a company's employee data. The main objectives include data modeling, data engineering, and data analysis using SQL and PostgreSQL. I used chatgpt to debug and re-write the script to establish foreign keys.
+This project involves the design, creation, and manipulation of a relational database for a company's employee data. The main objectives include data modeling, data engineering, and data analysis using SQL and PostgreSQL. I used chatgpt to debug, establish foreign keys, and re-write my data analysis sql script.
 
 Data Modeling:
 The first step in this project is to inspect the provided CSV files and create an Entity Relationship Diagram (saved as QuickDBD-export.png within the Analysis folder). The ERD helps to visualize the relationships between different entities in the database.
