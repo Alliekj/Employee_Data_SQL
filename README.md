@@ -185,7 +185,8 @@ Use SQL queries to explore the data and answer the following questions:
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](QuickDBD-export.png)
+![Entity Relationship Diagram](EmployeeSQL/Analysis/QuickDBD-export.png)
+
 
 ---
 
