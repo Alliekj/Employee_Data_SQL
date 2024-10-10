@@ -186,8 +186,7 @@ Use SQL queries to explore the data and answer the following questions:
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](https://github.com/Alliekj/sql-challenge/raw/main/EmployeeSQL/Analysis/QuickDBD-export.png)
-
+1. Use https://www.quickdatabasediagrams.com/ to create the diagram 
 
 
 ---
