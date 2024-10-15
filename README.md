@@ -98,6 +98,8 @@ CREATE TABLE dept_manager (
     FOREIGN KEY (dept_no) REFERENCES departments(dept_no)
 );
 
+---
+
 ### Step 3: Data Analysis
 
 Use SQL queries to explore the data and answer the following questions:
