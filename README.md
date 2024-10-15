@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project is an analysis of employee data from the 1980s and 1990s. It involves database reconstruction using SQL, data modeling to design an tale schema for each of the csv files, and data analysis to derive insights about the company’s workforce during this time period.
+This project is an analysis of employee data from the 1980s and 1990s. It involves database reconstruction using SQL, data modeling to design a table schema for each of the csv files, and data analysis to derive insights about the company’s workforce during this time period.
 
 ## Project Overview
 
